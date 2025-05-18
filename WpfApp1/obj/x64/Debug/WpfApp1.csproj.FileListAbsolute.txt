@@ -1,0 +1,17 @@
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\MainWindow.baml
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\App.g.cs
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\bin\x64\Debug\sysctl.exe.config
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\bin\x64\Debug\sysctl.exe
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\bin\x64\Debug\sysctl.pdb
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\sysctl_MarkupCompile.cache
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\sysctl.g.resources
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\sysctl.exe
+C:\Users\Reiz\source\repos\WpfApp1\WpfApp1\obj\x64\Debug\sysctl.pdb
